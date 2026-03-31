@@ -249,7 +249,7 @@ Commands used include:
 * date
 * whoami
 
-(Screenshot of Script 1 Output)
+![ss1](https://github.com/user-attachments/assets/89aac09a-2a56-439b-a787-d2434ff57c7c)
 
 ---
 
@@ -259,7 +259,9 @@ This script checks whether Python is installed on the system and retrieves packa
 
 It uses conditional statements and command-line utilities such as `dpkg` and `grep`.
 
-(Screenshot of Script 2 Output)
+<img width="1224" height="818" alt="Screenshot 2026-03-31 163442" src="https://github.com/user-attachments/assets/503835fe-4b95-49c8-a400-eddfc770aca9" />
+
+<img width="1223" height="819" alt="Screenshot 2026-03-31 163520" src="https://github.com/user-attachments/assets/163d746a-2bf0-43f8-9c30-2af2cae9b819" />
 
 ---
 
@@ -269,7 +271,7 @@ This script examines several important Linux directories and reports their permi
 
 A `for` loop is used to iterate through directories and analyze each one.
 
-(Screenshot of Script 3 Output)
+<img width="787" height="740" alt="Screenshot 2026-03-31 163620" src="https://github.com/user-attachments/assets/0647e724-2365-4b1c-8b51-e9d738c2b58d" />
 
 ---
 
@@ -279,7 +281,7 @@ This script analyzes a Linux log file and searches for occurrences of a keyword 
 
 The script demonstrates the use of a `while read` loop and conditional logic.
 
-(Screenshot of Script 4 Output)
+![SS](https://github.com/user-attachments/assets/d647838a-e2c7-405f-aec8-4f357e97212c)
 
 ---
 
@@ -289,7 +291,7 @@ This interactive script asks the user several questions about open-source softwa
 
 The script demonstrates user input, string concatenation, and file output operations.
 
-(Screenshot of Script 5 Output)
+<img width="800" height="405" alt="Screenshot 2026-03-31 164733" src="https://github.com/user-attachments/assets/d7cf7e04-655e-41f3-961b-83ac53c5e5f5" />
 
 ---
 
