@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Name: Your Name
+# Name: Shaun Abraham
 # Description: Checks if a package is installed and displays version and license.
 
 PACKAGE="python3"
