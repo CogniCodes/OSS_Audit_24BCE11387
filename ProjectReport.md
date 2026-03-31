@@ -6,7 +6,7 @@ Open Source Software Systems
 
 ## Student Name
 
-Vaishnavi Tiwari
+Shaun Abraham
 
 ## Selected Software
 
@@ -305,4 +305,4 @@ Open-source software continues to shape modern computing by promoting transparen
 
 # Author
 
-Vaishnavi Tiwari
+Shaun Abraham
